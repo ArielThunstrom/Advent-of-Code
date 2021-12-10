@@ -6,4 +6,6 @@ Advent of Code 2021
 * Day06Part1.java
   *  The first part of this problem that I did was creating an ArrayList with the data set that I was given. I first created an array with my data and then converted the array to an ArrayList using a method that I wrote. After all my data was in an ArrayList, I started to work on the promt given. To find the amount of fish after 80 days I used nested for loops. The first for loop is going to run for the amount of days that the method is sent. The second for loop is going to go through each element in ArrayList of data and increas/reset the lantern fish timer and add more fish.
 * Day07Part1.java
+  *   This problem was much more difficult to figure out what is was asking, so the first thing I did was write out on paper what the goal of the program was and what methods I needed to create in order to accomplish the goal. I started by first creating some simple methods to find the max and the min value in the data set. Next, I created a method that would create a new array to store the difference of each value between min and max. I created another method called difference to find the difference and they stored it into that new array. Once the new with the differences was creates, I then found the minimum of that array and returned that value to complete the problem.
 * Day02.java
+   *    Part 01: 
