@@ -8,4 +8,4 @@ Advent of Code 2021
 * Day07Part1.java
   *   This problem was much more difficult to figure out what is was asking, so the first thing I did was write out on paper what the goal of the program was and what methods I needed to create in order to accomplish the goal. I started by first creating some simple methods to find the max and the min value in the data set. Next, I created a method that would create a new array to store the difference of each value between min and max. I created another method called difference to find the difference and they stored it into that new array. Once the new with the differences was creates, I then found the minimum of that array and returned that value to complete the problem.
 * Day02.java
-   *    Part 01: 
+   *    Part 01: To start off the problem, I first took a data set and put it into an ArrayList of words. 
